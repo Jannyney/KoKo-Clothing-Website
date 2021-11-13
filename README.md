@@ -1,5 +1,4 @@
 # KoKo Clothing Store Website
-#### Video Demo:  https://youtu.be/KP2veWwbaPo
 ### Description: 
 
 
