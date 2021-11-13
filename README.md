@@ -47,7 +47,7 @@ all images are in the images folder
 It is decorated by using CSS and the elements can be adjusted for mobile phone screen size.  
 
 
-####Import links:
+#### Import links:
 
 https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap
 https://fonts.googleapis.com
